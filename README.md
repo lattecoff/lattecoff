@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skills.thijs.gg/icons?i=c,py,html,css)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c,py,django,html,css)](https://skills.thijs.gg)
