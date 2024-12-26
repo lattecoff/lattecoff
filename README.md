@@ -7,7 +7,7 @@ My latest project was an IoT No-Frost refrigerator.
 
 However, in the near future, I would like to switch to web development using Python.
 
-And now I'm actively studying technologies: Django, FastAPI, SQL.
+And now I'm actively studying technologies: Django, FastAPI, SQL and etc.
 
 <!--
 **lattecoff/lattecoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
